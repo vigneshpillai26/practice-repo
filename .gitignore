@@ -1,0 +1,13 @@
+*/config/config-local.properties
+*/target/**
+*/.settings/**
+*/.project
+*/.factorypath
+*/.classpath
+*/.idea/**
+*/logs/**
+*/bin/**
+*/config/config-local.properties
+.project
+.settings/
+*/*.iml
